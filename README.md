@@ -11,3 +11,4 @@ We have deveoped a 2D- and 3D-based pipeline for evaluation of whole slide image
 
 
 ![alt text](https://github.com/janan-arslan/MALMO/blob/main/GH_3D_WSI_Pipeline_Figure.TIFF?raw=true)
+![](20230124_3D_WSI_Pipeline_Figure.tiff)
