@@ -9,7 +9,13 @@ Our assumption is that treatment resistance can be explained by capturing these 
 ## Our Pipeline
 We have deveoped a 2D- and 3D-based pipeline for evaluation of whole slide images (WSI) - digitized pathology slides - with particular focus on hematoxylin and eosin (H&E) and cluster of differentiation 31 (CD31) stained tissue sections. Tissue sections were acquired using Patient-Derived Xenograpft (PDX) mouse models. 
 
-Details regarding the pipeline can be found in our SPIE publication: [Efficient 3D Reconstruction of H&E Whole Slide Images in Melanoma](https://hal.science/hal-03834014).
-
-
 ![](/images/3D_WSI_Pipeline_Figure.png)
+
+## Research Output
+[Reconstruction vasculaire 3D et analyse de lames virtuelles H&E dans l'étude du mélanome](https://hal.science/hal-03928851), *IABM2023 : Colloque Français d'Intelligence Artificielle en Imagerie Biomédicale*, Mar 2023, Paris, France.
+
+[Efficient 3D Reconstruction of H&E Whole Slide Images in Melanoma](https://hal.science/hal-03834014), *SPIE Medical Imaging 2023*, Feb 2023, San Diego, California, United States
+
+
+
+
