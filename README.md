@@ -12,3 +12,4 @@ We have deveoped a 2D- and 3D-based pipeline for evaluation of whole slide image
 <p align="center">
     <img width="100%" src="https://github.com/janan-arslan/MALMO/blob/main/GH_3D_WSI_Pipeline_Figure.TIFF?raw=true">
 </p>
+<p style="text-align: justify;">
