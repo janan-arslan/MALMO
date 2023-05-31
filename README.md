@@ -28,7 +28,8 @@ We have deveoped a 2D- and 3D-based pipeline for evaluation of whole slide image
 
 
 
-![](https://github.com/janan-arslan/MALMO/assets/95415605/ee677fb6-5fc9-4974-8316-da7f962b57d1)
+
+https://github.com/janan-arslan/MALMO/assets/95415605/78d374c6-3b51-4aa9-b004-02c24bb6e151
 
 
 
