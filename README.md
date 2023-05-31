@@ -15,7 +15,7 @@ We have deveoped a 2D- and 3D-based pipeline for evaluation of whole slide image
 
 ## Demo Video
 <p align="center">
-  <img width="100%" src="https://github.com/janan-arslan/MALMO/assets/95415605/988b92dd-68e4-44a8-94e2-981b5abc59fc">
+  <src="https://github.com/janan-arslan/MALMO/assets/95415605/988b92dd-68e4-44a8-94e2-981b5abc59fc">
  </p>
 
 
