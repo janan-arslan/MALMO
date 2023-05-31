@@ -14,9 +14,9 @@ We have deveoped a 2D- and 3D-based pipeline for evaluation of whole slide image
  </p>
 
 ## Demo Video
-<p align="center">
-  <src="https://github.com/janan-arslan/MALMO/assets/95415605/988b92dd-68e4-44a8-94e2-981b5abc59fc">
- </p>
+<div align="center">
+  <video src="https://github.com/janan-arslan/MALMO/assets/95415605/988b92dd-68e4-44a8-94e2-981b5abc59fc">
+ </div>
 
 
 ## Research Output
