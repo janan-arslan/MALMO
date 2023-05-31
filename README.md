@@ -11,7 +11,9 @@ We have deveoped a 2D- and 3D-based pipeline for evaluation of whole slide image
 
 ![](/images/3D_WSI_Pipeline_Figure.png)
 
-![](/demo/malmo_3D_vid.mp4)
+## Demo Video
+https://github.com/janan-arslan/MALMO/assets/95415605/988b92dd-68e4-44a8-94e2-981b5abc59fc
+
 
 ## Research Output
 [Reconstruction vasculaire 3D et analyse de lames virtuelles H&E dans l'étude du mélanome](https://hal.science/hal-03928851). *IABM2023 : Colloque Français d'Intelligence Artificielle en Imagerie Biomédicale*, Mar 2023, Paris, France.
@@ -27,16 +29,6 @@ We have deveoped a 2D- and 3D-based pipeline for evaluation of whole slide image
 [Estimating spatial distribution of oxygen and hypoxia in tumor microenvironment: a mechanistic approach](https://hal.science/hal-04021831). *CanceropoleGSO 2022*, Nov 2022, Montpellier, France.
 
 
-
-
-https://github.com/janan-arslan/MALMO/assets/95415605/78d374c6-3b51-4aa9-b004-02c24bb6e151
-
-
-
-
-
-
-https://github.com/janan-arslan/MALMO/assets/95415605/988b92dd-68e4-44a8-94e2-981b5abc59fc
 
 
 
