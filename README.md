@@ -18,6 +18,14 @@ We have deveoped a 2D- and 3D-based pipeline for evaluation of whole slide image
 
 [3D reconstruction and mathematical modelling of whole slide images to elucidate resistance to the targeted therapy in melanoma](https://hal.science/hal-03814995). *International Conference in Systems Biology*, Oct 2022, Berlin, Germany.
 
+[Introducing [MALMO]: Mathematical approaches to modelling metabolic plasticity and heterogeneity in Melanoma](https://hal.science/hal-03834055). *RITS 2022 - Recherche en Imagerie et Technologie pour la Santé*, May 2022, Brest, France.
+
+[Data driven mechanistic modeling of oxygen distribution and hypoxia profile in tumor microenvironment](https://hal.science/hal-03834400). *COMPSYSCAN2022: A complex systems approach to cancer understanding*, Oct 2022, Lyon, France.
+
+[Estimating spatial distribution of oxygen and hypoxia in tumor microenvironment: a mechanistic approach](https://hal.science/hal-04021831). *CanceropoleGSO 2022*, Nov 2022, Montpellier, France.
+
+
+
 
 
 
