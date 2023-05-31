@@ -11,6 +11,8 @@ We have deveoped a 2D- and 3D-based pipeline for evaluation of whole slide image
 
 ![](/images/3D_WSI_Pipeline_Figure.png)
 
+![](/demo/malmo_3D_vid.mp4)
+
 ## Research Output
 [Reconstruction vasculaire 3D et analyse de lames virtuelles H&E dans l'étude du mélanome](https://hal.science/hal-03928851). *IABM2023 : Colloque Français d'Intelligence Artificielle en Imagerie Biomédicale*, Mar 2023, Paris, France.
 
