@@ -12,9 +12,11 @@ We have deveoped a 2D- and 3D-based pipeline for evaluation of whole slide image
 ![](/images/3D_WSI_Pipeline_Figure.png)
 
 ## Research Output
-[Reconstruction vasculaire 3D et analyse de lames virtuelles H&E dans l'étude du mélanome](https://hal.science/hal-03928851), *IABM2023 : Colloque Français d'Intelligence Artificielle en Imagerie Biomédicale*, Mar 2023, Paris, France.
+[Reconstruction vasculaire 3D et analyse de lames virtuelles H&E dans l'étude du mélanome](https://hal.science/hal-03928851). *IABM2023 : Colloque Français d'Intelligence Artificielle en Imagerie Biomédicale*, Mar 2023, Paris, France.
 
-[Efficient 3D Reconstruction of H&E Whole Slide Images in Melanoma](https://hal.science/hal-03834014), *SPIE Medical Imaging 2023*, Feb 2023, San Diego, California, United States
+[Efficient 3D Reconstruction of H&E Whole Slide Images in Melanoma](https://hal.science/hal-03834014). *SPIE Medical Imaging 2023*, Feb 2023, San Diego, California, United States.
+
+[3D reconstruction and mathematical modelling of whole slide images to elucidate resistance to the targeted therapy in melanoma](https://hal.science/hal-03814995). *International Conference in Systems Biology*, Oct 2022, Berlin, Germany.
 
 
 
