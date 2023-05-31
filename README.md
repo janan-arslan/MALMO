@@ -10,11 +10,13 @@ Our assumption is that treatment resistance can be explained by capturing these 
 We have deveoped a 2D- and 3D-based pipeline for evaluation of whole slide images (WSI) - digitized pathology slides - with particular focus on hematoxylin and eosin (H&E) and cluster of differentiation 31 (CD31) stained tissue sections. Tissue sections were acquired using Patient-Derived Xenograpft (PDX) mouse models. 
 
 <p align="center">
-  <img width="100%" src="/images/3D_WSI_Pipeline_Figure.png">
+  <img width="95%" src="/images/3D_WSI_Pipeline_Figure.png">
  </p>
 
 ## Demo Video
-https://github.com/janan-arslan/MALMO/assets/95415605/988b92dd-68e4-44a8-94e2-981b5abc59fc
+<p align="center">
+  <img width="100%" src="https://github.com/janan-arslan/MALMO/assets/95415605/988b92dd-68e4-44a8-94e2-981b5abc59fc">
+ </p>
 
 
 ## Research Output
