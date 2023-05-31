@@ -36,3 +36,7 @@ https://github.com/janan-arslan/MALMO/assets/95415605/78d374c6-3b51-4aa9-b004-02
 
 
 
+https://github.com/janan-arslan/MALMO/assets/95415605/988b92dd-68e4-44a8-94e2-981b5abc59fc
+
+
+
