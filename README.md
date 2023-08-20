@@ -65,4 +65,16 @@ We have developed a 2D- and 3D-based pipeline for evaluation of whole slide imag
 
 '''
 
+Project
+├── src
+│   ├── main
+│   │   ├── java
+│   │   └── resources
+│   └── test
+│       ├── java
+│       └── resources
+├── docs
+└── README.md
+
+
 
