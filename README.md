@@ -1,13 +1,11 @@
 # MALMO
 
 ## Table of Contents
-Introduction
-Our Study
-Our Pipeline
-Demo Video
-Research Output
-
-
+[Introduction](https://github.com/janan-arslan/MALMO#introduction)
+[Our Study](https://github.com/janan-arslan/MALMO#our-study)
+[Our Pipeline](https://github.com/janan-arslan/MALMO#our-pipeline)
+[Demo Video](https://github.com/janan-arslan/MALMO#demo-video)
+[Research Output](https://github.com/janan-arslan/MALMO#research-output)
 
 ## Introduction
 The MALMO [***Mathematical approaches to modelling metabolic plasticity and heterogeneity in Melanoma***] Project aims at understanding how tumor heterogeneity contributes to melanoma progression and treatment resistance. The infiltration of cancer cells within the host tissue cause molecular, cellular, and physical changes that lead to the creation of a tumor microenvironment. Such environments are deprived of nutrients and oxygen typically available in normally functioning tissue. Despite this, melanoma cells have the ability to adapt and rewire themselves under these changing conditions, and thus continue to grow and proliferate, which makes this cancer a challenge to treat. 
