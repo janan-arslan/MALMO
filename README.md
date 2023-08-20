@@ -2,6 +2,7 @@
 
 ## Table of Contents
 [Introduction](https://github.com/janan-arslan/MALMO#introduction)
+
 [Our Study](https://github.com/janan-arslan/MALMO#our-study)
 
 [Our Pipeline](https://github.com/janan-arslan/MALMO#our-pipeline)
