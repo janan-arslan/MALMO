@@ -45,7 +45,7 @@ We have developed a 2D- and 3D-based pipeline for evaluation of whole slide imag
 
 ## Repository Structure
 ```
-
+MALMO
 ├──   2d_segmentation
 ├──   3d_reconstruction
 ├──   LICENSE
