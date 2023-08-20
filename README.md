@@ -45,6 +45,7 @@ We have developed a 2D- and 3D-based pipeline for evaluation of whole slide imag
 
 ## Repository Structure
 '''
+
 ├──   2d_segmentation
 ├──   3d_reconstruction
 ├──   LICENSE
@@ -60,6 +61,7 @@ We have developed a 2D- and 3D-based pipeline for evaluation of whole slide imag
     ├──   step_4_extracting_wsi_masks_via_thresholding.py
     ├──   step_5_foreground_extraction.py
     └──   step_6_convert_black_background_to_white.py
+
 
 '''
 
