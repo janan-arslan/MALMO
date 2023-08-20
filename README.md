@@ -11,6 +11,8 @@
 
 [Research Output](https://github.com/janan-arslan/MALMO#research-output)
 
+[Repository Structure](https://github.com/janan-arslan/MALMO/tree/main#repository-structure)
+
 ## Introduction
 The MALMO [***Mathematical approaches to modelling metabolic plasticity and heterogeneity in Melanoma***] Project aims at understanding how tumor heterogeneity contributes to melanoma progression and treatment resistance. The infiltration of cancer cells within the host tissue cause molecular, cellular, and physical changes that lead to the creation of a tumor microenvironment. Such environments are deprived of nutrients and oxygen typically available in normally functioning tissue. Despite this, melanoma cells have the ability to adapt and rewire themselves under these changing conditions, and thus continue to grow and proliferate, which makes this cancer a challenge to treat. 
 
@@ -42,6 +44,26 @@ We have developed a 2D- and 3D-based pipeline for evaluation of whole slide imag
 [Data driven mechanistic modeling of oxygen distribution and hypoxia profile in tumor microenvironment](https://hal.science/hal-03834400). *COMPSYSCAN2022: A complex systems approach to cancer understanding*, Oct 2022, Lyon, France.
 
 [Estimating spatial distribution of oxygen and hypoxia in tumor microenvironment: a mechanistic approach](https://hal.science/hal-04021831). *CanceropoleGSO 2022*, Nov 2022, Montpellier, France.
+
+## Repository Structure
+```
+MALMO
+├──   2d_segmentation
+├──   3d_reconstruction
+├──   LICENSE
+├──   README.md
+├──   color_matching
+│   └──   color_patch_match.py
+├──   images
+│   └──   3D_WSI_Pipeline_Figure.png
+├──   postprocessing
+└──   preprocessing
+    ├──   step_2_add_border_wsi.py
+    ├──   step_3_extracting_wsi_using_centre.py
+    ├──   step_4_extracting_wsi_masks_via_thresholding.py
+    ├──   step_5_foreground_extraction.py
+    └──   step_6_convert_black_background_to_white.py
+```
 
 
 
