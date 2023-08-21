@@ -48,21 +48,23 @@ We have developed a 2D- and 3D-based pipeline for evaluation of whole slide imag
 ## Repository Structure
 ```
 MALMO
-├──   2d_segmentation
-├──   3d_reconstruction
 ├──   LICENSE
 ├──   README.md
 ├──   color_matching
 │   └──   color_patch_match.py
+├──   combined_3D_complete_pipeline
 ├──   images
 │   └──   3D_WSI_Pipeline_Figure.png
-├──   postprocessing
-└──   preprocessing
-    ├──   step_2_add_border_wsi.py
-    ├──   step_3_extracting_wsi_using_centre.py
-    ├──   step_4_extracting_wsi_masks_via_thresholding.py
-    ├──   step_5_foreground_extraction.py
-    └──   step_6_convert_black_background_to_white.py
+└──   individual_3D_pipeline_steps
+    ├──   2d_segmentation
+    ├──   3d_reconstruction
+    ├──   postprocessing
+    └──   preprocessing
+        ├──   step_2_add_border_wsi.py
+        ├──   step_3_extracting_wsi_using_centre.py
+        ├──   step_4_extracting_wsi_masks_via_thresholding.py
+        ├──   step_5_foreground_extraction.py
+        └──   step_6_convert_black_background_to_white.py
 ```
 
 
