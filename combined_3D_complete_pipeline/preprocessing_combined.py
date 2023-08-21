@@ -212,15 +212,15 @@ root.title("MALMO 3D")
 Label(text="MALMO 3D Pipeline", font=('Arial', 15)).pack()
 Label(text="Preprocessing", font=('Arial', 15)).pack()
 
-#### Logo
-##logo = PhotoImage(file="./malmo_vector_logo.png")
-##
-##''' Modifiable Section '''
-##logo_label = tk.Label(root, image=logo)
-##resized_logo = resize_image(logo, 110, 75)  # Adjust the subsampling factors as needed
-##
-##logo_label = tk.Label(root, image=resized_logo)
-##logo_label.pack()
+## Logo
+logo = PhotoImage(file="./malmo_vector_logo.png")
+
+''' Modifiable Section '''
+logo_label = tk.Label(root, image=logo)
+resized_logo = resize_image(logo, 110, 75)  # Adjust the subsampling factors as needed
+
+logo_label = tk.Label(root, image=resized_logo)
+logo_label.pack()
 
 ## Frame/window size
 root.geometry('200x300')
