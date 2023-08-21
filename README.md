@@ -1,3 +1,10 @@
+<p align="center">
+  <img width="95%" src="/images/malmo_vector_logo.png">
+ </p>
+
+
+
+
 # MALMO
 
 ## Table of Contents
