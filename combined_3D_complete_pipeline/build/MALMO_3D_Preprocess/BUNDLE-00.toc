@@ -1,0 +1,3 @@
+([('MALMO_3D_Preprocess',
+   '/Users/janan.arslan/Documents/MALMO/combined_3D_complete_pipeline/dist/MALMO_3D_Preprocess',
+   'EXECUTABLE')],)
