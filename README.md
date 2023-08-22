@@ -60,6 +60,11 @@ MALMO
 ├──   color_matching
 │   └──   color_patch_match.py
 ├──   combined_3D_complete_pipeline
+│   ├──   build
+│   ├──   malmo_vector_logo.icns
+│   ├──   malmo_vector_logo.png
+│   └──    dist
+        ├──  MALMO_3D_Preprocess.app
 ├──   images
 │   └──   3D_WSI_Pipeline_Figure.png
 └──   individual_3D_pipeline_steps
