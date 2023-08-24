@@ -53,6 +53,7 @@ We have developed a 2D- and 3D-based pipeline for evaluation of whole slide imag
 [Estimating spatial distribution of oxygen and hypoxia in tumor microenvironment: a mechanistic approach](https://hal.science/hal-04021831). *CanceropoleGSO 2022*, Nov 2022, Montpellier, France.
 
 ## Citation
+Please cite the following publication for any work(s) used from this repository.
 
 **APA**
 ```
