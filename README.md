@@ -56,9 +56,10 @@ We have developed a 2D- and 3D-based pipeline for evaluation of whole slide imag
 
 **APA**
 ```
-Arslan, J., Ounissi, M., Luo, H., Lacroix, M., Dupré, P., Kumar, P., Hodgkinson, A., Dandou, S., Larive, R., Pignodel, C., Le Cam, L.,
-Radulescu, O., & Racoceanu, D. (2023). Efficient 3D reconstruction of whole slide images in melanoma. __SPIE Medical Imaging__, 2023,
-San Diego, California, United States. https://doi.org/10.1117/12.2657473
+Arslan, J., Ounissi, M., Luo, H., Lacroix, M., Dupré, P., Kumar, P., Hodgkinson, A., Dandou, S., Larive, R.,
+Pignodel, C., Le Cam, L., Radulescu, O., & Racoceanu, D. (2023). Efficient 3D reconstruction of whole slide
+images in melanoma. SPIE Medical Imaging, 2023, San Diego, California, United States.
+https://doi.org/10.1117/12.2657473
 ```
 
 **BibTeX**
