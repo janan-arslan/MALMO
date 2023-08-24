@@ -54,7 +54,25 @@ We have developed a 2D- and 3D-based pipeline for evaluation of whole slide imag
 
 ## Citation
 
+**APA**
+```
+Arslan, J., Ounissi, M., Luo, H., Lacroix, M., Dupré, P., Kumar, P., Hodgkinson, A., Dandou, S., Larive, R., Pignodel, C., Le Cam, L., Radulescu, O., & Racoceanu, D. (2023). Efficient 3D reconstruction of whole slide images in melanoma. _SPIE Medical Imaging_, 2023, San Diego, California, United States. https://doi.org/10.1117/12.2657473
+```
 
+**BibTeX**
+```
+@inproceedings{Arslan_MALMO_3D_2023,
+  doi = {10.1117/12.2657473},
+  url = {https://doi.org/10.1117/12.2657473},
+  year = {2023},
+  month = apr,
+  publisher = {{SPIE}},
+  author = {Janan Arslan and Mehdi Ounissi and Haocheng Luo and Matthieu Lacroix and Pierrick Dupr{\'{e}} and Pawan Kumar and Arran Hodgkinson and Sarah Dandou and Romain Larive and Christine Pignodel and Laurent L. Cam and Ovidiu Radulescu and Daniel Racoceanu},
+  editor = {John E. Tomaszewski and Aaron D. Ward},
+  title = {Efficient 3D reconstruction of whole slide images in melanoma},
+  booktitle = {Medical Imaging 2023: Digital and Computational Pathology}
+}
+```
 
 ## Repository Structure
 ```
