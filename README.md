@@ -83,7 +83,7 @@ https://doi.org/10.1117/12.2657473
 ```
 
 ## Installation
-This repository was created using Python v3.6. All packages needed for successful execution can be found in '''requirements.txt'''. 
+This repository was created using Python v3.6. All packages needed for successful execution can be found in `requirements.txt`. 
 
 ## Repository Structure
 ```
