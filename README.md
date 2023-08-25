@@ -18,6 +18,10 @@
 
 [Research Output](https://github.com/janan-arslan/MALMO#research-output)
 
+[Citation](https://github.com/janan-arslan/MALMO#citation)
+
+[Installation](https://github.com/janan-arslan/MALMO#installation)
+
 [Repository Structure](https://github.com/janan-arslan/MALMO/tree/main#repository-structure)
 
 ## Introduction
@@ -77,6 +81,9 @@ https://doi.org/10.1117/12.2657473
   booktitle = {Medical Imaging 2023: Digital and Computational Pathology}
 }
 ```
+
+## Installation
+This repository was created using Python v3.6. All packages needed for successful execution can be found in '''requirements.txt'''. 
 
 ## Repository Structure
 ```
