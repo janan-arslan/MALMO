@@ -11,7 +11,6 @@ from keras import backend as keras
 from sklearn.model_selection import KFold
 import cv2
 from math import expm1, sqrt, log, log10, log2
-from scipy.stats import norm, kurtosis, kurtosistest, skewtest, kstest, boxcox
 from keras.metrics import binary_crossentropy
 
 
