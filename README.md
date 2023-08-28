@@ -8,7 +8,7 @@
 # MALMO
 ![alt text][logo]
 
-[logo]: [/images/malmo_vector_logo_tm.png](https://github.com/janan-arslan/MALMO/blob/main/images/malmo_logo_bw.png) "MALMO"
+[logo]: [/images/malmo_logo_bw.png](https://github.com/janan-arslan/MALMO/blob/main/images/malmo_logo_bw.png) "MALMO"
 
 
 ## Table of Contents
