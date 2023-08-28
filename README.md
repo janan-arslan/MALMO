@@ -5,11 +5,11 @@
 
 
 
-# MALMO <img src="/images/malmo_logo_bw_0.1x.png"/>
+# MALMO
 
 
 
-## Table of Contents
+## Table of Contents <img src="/images/malmo_logo_bw_0.1x.png"/>
 [Introduction](https://github.com/janan-arslan/MALMO#introduction)
 
 [Our Study](https://github.com/janan-arslan/MALMO#our-study)
