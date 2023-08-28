@@ -5,9 +5,7 @@
 
 
 
-# MALMO 
-![alt text][logo] 
-[logo]: https://github.com/janan-arslan/MALMO/blob/main/images/malmo_logo_bw_0.2px.png "Logo Title Text 2"
+# MALMO <img src="images/malmo_logo_bw_0.2x.png"/>
 
 
 
