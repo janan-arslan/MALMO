@@ -5,7 +5,7 @@
 
 
 
-# MALMO <img src="images/malmo_logo_bw_0.2x.png"/>
+# MALMO <img width="50%" img src="images/malmo_logo_bw_0.2x.png"/>
 
 
 
