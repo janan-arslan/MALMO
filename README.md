@@ -5,7 +5,8 @@
 
 
 
-# MALMO
+# MALMO:![alt text](https://github.com/janan-arslan/MALMO//images/malmo_logo_bw.png "MALMO(TM)")
+
 
 ## Table of Contents
 [Introduction](https://github.com/janan-arslan/MALMO#introduction)
