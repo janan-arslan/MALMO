@@ -27,9 +27,6 @@
 [Repository Structure](https://github.com/janan-arslan/MALMO/tree/main#repository-structure)
 
 
-
-[![CI Workflow](https://github.com/your-username/my-awesome-project/actions/workflows/main.yml/badge.svg)](https://github.com/your-username/my-awesome-project/actions/workflows/main.yml)
-
 [![Manual workflow](https://github.com/janan-arslan/MALMO/actions/workflows/manual.yml/badge.svg)](https://github.com/janan-arslan/MALMO/actions/workflows/manual.yml)
 
 ## Introduction
