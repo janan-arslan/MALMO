@@ -5,7 +5,10 @@
 
 
 
-# MALMO [logo]: [https://github.com/janan-arslan/MALMO/images/malmo_logo_bw.png](https://github.com/janan-arslan/MALMO/blob/main/images/malmo_logo_bw.png) "MALMO"
+# MALMO
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "MALMO"
 
 
 ## Table of Contents
