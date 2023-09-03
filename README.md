@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="45%" src="/images/malmo_vector_logo_tm.png">
+  <img width="45%" src="/images/wsi3d_logo.png">
  </p>
 
 
