@@ -2,7 +2,7 @@
   <img width="45%" src="/images/wsi3d_logo.png">
  </p>
 
-_Putting together the puzzle of cancer therapy one piece at a time._
+`_Putting together the puzzle of cancer therapy one piece at a time._`
 
 
 
