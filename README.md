@@ -1,8 +1,3 @@
-<p align="center">
-  <img width="45%" src="/images/wsi3d_logo.png">
-  `_Putting together the puzzle of cancer therapy one piece at a time._`
- </p>
-
 <figure align="center">
   <img width="45%" src="/images/wsi3d_logo.png" alt="WSI3D Logo">
   <figcaption><em>Putting together the puzzle of cancer therapy one piece at a time.</em></figcaption>
