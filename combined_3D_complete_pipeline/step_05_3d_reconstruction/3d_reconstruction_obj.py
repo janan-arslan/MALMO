@@ -33,12 +33,6 @@ import tkinter as tk
 import tkinter.filedialog as fdialog
 from tkinter import PhotoImage
 from tkinter import scrolledtext
-from tkinter import*
-from tkinter import Menu
-import tkinter as tk
-import tkinter.filedialog as fdialog
-from tkinter import PhotoImage
-from tkinter import scrolledtext
 
 def select_input():
     global path
