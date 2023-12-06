@@ -51,7 +51,7 @@ def process_images(image_batch, model, outPath, path):
 
 
 def bv_segmentation_task_parallel(path, modelPath, outPath):
-    model = unet(modelPath)  # Assuming the 'unet' function can directly accept the model path
+    model = unet(modelPath)
     image_paths = [os.path.join(path, image) for image in os.listdir(path)]
     cpu_count = os.cpu_count()
     image_batches = [image_paths[i::cpu_count] for i in range(cpu_count)]
