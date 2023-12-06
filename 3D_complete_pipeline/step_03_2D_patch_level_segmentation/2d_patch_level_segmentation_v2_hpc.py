@@ -1,3 +1,34 @@
+'''
+======================================================================
+ Title:                   3D Reconstruction Pipeline
+                          2D Patch-Level Segmentation (HPC version)
+ Author:                  Janan Arslan
+ Creation Date:           06 JUL 2022
+ Latest Modification:     30 AUG 2023
+ E-mail:                  janan.arslan@icm-institute.org
+ Version:                 2.2
+======================================================================
+
+This represents the segmentation step used in the 3D Reconstruction pipeline of the MALMO Project.
+
+The difference between this and the original segmentation is that the original uses a GUI  
+interface but does not use parallel processing (and thus much slower), whereas this version 
+was designed to be executed on a high-performance cluster (HPC) such as the one at ICM or Jean Zay. 
+
+Here, the preprocessed and inpainted image can now undergo segmentation. In this code,
+the patch size for the segmentation was reduced to 64x64, even though the UNet model
+trained included training patches of 512x512. However, the model was trained with
+patches extracted at the highest resolution. In the pipeline, however, to create
+a manageable 3D model that isn't computationally expensive, the original images
+were downsampled by 8. At downsampling of 8, the spatial information contains more
+surface area as compared to the surface area at the highest resolution (x40 magnification).
+Therefore, to create an equivalent spatial resolution with 8 downsampled images, patches
+of size 64x64 were extracted instead.
+
+Sections where your input is required have been marked with **Modifiable section**.
+
+'''
+
 import numpy as np
 import cv2
 from keras.utils import normalize
